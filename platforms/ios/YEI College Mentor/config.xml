@@ -80,4 +80,7 @@
     <gap:splash gap:platform="android" gap:qualifier="mdpi" src="res/screen/android/mdpi.png" />
     <gap:splash gap:platform="android" gap:qualifier="hdpi" src="res/screen/android/hdpi.png" />
     <access origin="*" />
+    <feature name="InAppBrowser">
+        <param name="ios-package" value="CDVInAppBrowser" />
+    </feature>
 </widget>
