@@ -490,7 +490,7 @@ s3242520
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd5cd05c91aa8b941^51a473c91aa8b941^---0#1#1#--18"Check dependencies36"CF7CB06D-B695-4687-B45E-FD3C70917754-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2425116a20a8b941^5b79916a20a8b941^---0#1#1#--18"Check dependencies36"465E3795-977B-42BC-8F8B-7C7EC427C00F-
 
 CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s430439034.003449
