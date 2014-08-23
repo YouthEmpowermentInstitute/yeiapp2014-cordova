@@ -6,22 +6,23 @@ cProcessInfoPlistFile /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/y
 cPhaseScriptExecution Copy\ www\ directory /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ Mentor.build/Script-304B58A110DAC018002A0835.sh
 cCpResource YEI\ College\ Mentor/Resources/icons/icon-76.png build/emulator/YEI\ College\ Mentor.app/icon-76.png
 cCpResource YEI\ College\ Mentor/Resources/icons/icon-40@2x.png build/emulator/YEI\ College\ Mentor.app/icon-40@2x.png
-cCopyStringsFile /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app/en.lproj/Localizable.strings YEI\ College\ Mentor/Resources/en.lproj/Localizable.strings
 cCpResource YEI\ College\ Mentor/Resources/icons/icon-72.png build/emulator/YEI\ College\ Mentor.app/icon-72.png
+cCopyStringsFile /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app/en.lproj/Localizable.strings YEI\ College\ Mentor/Resources/en.lproj/Localizable.strings
 cCpResource YEI\ College\ Mentor/Resources/icons/icon.png build/emulator/YEI\ College\ Mentor.app/icon.png
 cCompileXIB /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Classes/MainViewController.xib
 cCopyStringsFile /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app/de.lproj/Localizable.strings YEI\ College\ Mentor/Resources/de.lproj/Localizable.strings
-cCpResource YEI\ College\ Mentor/Resources/icons/icon@2x.png build/emulator/YEI\ College\ Mentor.app/icon@2x.png
 cCpResource YEI\ College\ Mentor/Resources/icons/icon-50.png build/emulator/YEI\ College\ Mentor.app/icon-50.png
 cCpResource YEI\ College\ Mentor/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/YEI\ College\ Mentor.app/Default-Landscape@2x~ipad.png
 cCpResource YEI\ College\ Mentor/Resources/splash/Default-Landscape~ipad.png build/emulator/YEI\ College\ Mentor.app/Default-Landscape~ipad.png
 cCpResource YEI\ College\ Mentor/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/YEI\ College\ Mentor.app/Default-Portrait@2x~ipad.png
+cCpResource YEI\ College\ Mentor/Resources/icons/icon@2x.png build/emulator/YEI\ College\ Mentor.app/icon@2x.png
 cCpResource YEI\ College\ Mentor/Resources/splash/Default-Portrait~ipad.png build/emulator/YEI\ College\ Mentor.app/Default-Portrait~ipad.png
 cCpResource YEI\ College\ Mentor/Resources/icons/icon-small.png build/emulator/YEI\ College\ Mentor.app/icon-small.png
 cCpResource YEI\ College\ Mentor/Resources/icons/icon-small@2x.png build/emulator/YEI\ College\ Mentor.app/icon-small@2x.png
 cCpResource www/res/icon/ios/icon-60@2x.png build/emulator/YEI\ College\ Mentor.app/icon-60@2x.png
 cCpResource YEI\ College\ Mentor/Resources/icons/icon-40.png build/emulator/YEI\ College\ Mentor.app/icon-40.png
 cCpResource www/res/icon/ios/icon-60.png build/emulator/YEI\ College\ Mentor.app/icon-60.png
+cCpResource YEI\ College\ Mentor/Resources/splash/Default@2x~iphone.png build/emulator/YEI\ College\ Mentor.app/Default@2x~iphone.png
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Classes/MainViewController.xib
 c0000000053F685500000000000001759
@@ -39,29 +40,29 @@ t1408664912
 s1195
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/icons/icon-40.png
-c0000000053F7E8E70000000000002EE3
-t1408755943
-s12003
+c0000000053F80711000000000000368C
+t1408763665
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/icons/icon-40@2x.png
-c0000000053F7E8E70000000000002EE3
-t1408755943
-s12003
+c0000000053F80711000000000000368C
+t1408763665
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/icons/icon-50.png
-c0000000053F7E8E70000000000002EE3
-t1408755943
-s12003
+c0000000053F80711000000000000368C
+t1408763665
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/icons/icon-50@2x.png
-c0000000053F68550000000000000258B
-t1408664912
-s9611
+c0000000053F80711000000000000368C
+t1408763665
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/icons/icon-72.png
-c0000000053F7E8E70000000000002EE3
-t1408755943
-s12003
+c0000000053F80711000000000000368C
+t1408763665
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/icons/icon-72@2x.png
 c0000000053F685500000000000002DBA
@@ -69,8 +70,8 @@ t1408664912
 s11706
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/icons/icon-76.png
-c0000000053F7E34400000000000020E5
-t1408754500
+c0000000053F8071100000000000020E5
+t1408763665
 s8421
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/icons/icon-76@2x.png
@@ -79,24 +80,24 @@ t1408664912
 s15262
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/icons/icon-small.png
-c0000000053F7E8E70000000000002EE3
-t1408755943
-s12003
+c0000000053F80711000000000000368C
+t1408763665
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/icons/icon-small@2x.png
-c0000000053F7E8E70000000000002EE3
-t1408755943
-s12003
+c0000000053F80711000000000000368C
+t1408763665
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/icons/icon.png
-c0000000053F7E8E70000000000002EE3
-t1408755943
-s12003
+c0000000053F80711000000000000368C
+t1408763665
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/icons/icon@2x.png
-c0000000053F7E8E80000000000002EE3
-t1408755944
-s12003
+c0000000053F80711000000000000368C
+t1408763665
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Resources/splash/Default-568h@2x~iphone.png
 c0000000053F7E344000000000001A7FE
@@ -134,8 +135,8 @@ t1408754500
 s37103
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/YEI College Mentor-Info.plist
-c0000000053F7E8E90000000000000E5C
-t1408755945
+c0000000053F807110000000000000E5C
+t1408763665
 s3676
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/YEI College Mentor.build/Debug-iphonesimulator/YEI College Mentor.build/Script-304B58A110DAC018002A0835.sh
@@ -164,19 +165,19 @@ t1408746236
 s91713
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/Default@2x~iphone.png
-t1408746560
-s29475
+t2
+s0
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/Default~iphone.png
 t1408746624
 s10394
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/Info.plist
-t1408754505
+t1408763564
 s1637
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/MainViewController.nib
-t1408754511
+t1408763190
 s836
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/PkgInfo
@@ -192,16 +193,16 @@ t1408746236
 s166
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon-40.png
-t1408746236
-s4082
+t1408763566
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon-40@2x.png
-t1408746236
-s7411
+t1408763566
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon-50.png
-t1408746236
-s4874
+t1408763566
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon-50@2x.png
 t1408746624
@@ -212,40 +213,40 @@ t2
 s0
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon-60@2x.png
-t1408754507
+t1408763566
 s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon-72.png
-t1408746236
-s4944
+t1408763566
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon-72@2x.png
 t2
 s0
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon-76.png
-t1408746236
-s7025
+t1408763566
+s8421
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon-76@2x.png
 t1408750466
 s15262
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon-small.png
-t1408746236
-s3294
+t1408763566
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon-small@2x.png
-t1408746236
-s5608
+t1408763566
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon.png
-t1408746236
-s3902
+t1408763566
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/icon@2x.png
-t1408746236
-s7869
+t1408763566
+s13964
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/www/res/icon/ios/icon-60.png
 c00000000000000000000000000000000
@@ -253,18 +254,21 @@ t2
 s0
 
 N/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/www/res/icon/ios/icon-60@2x.png
-c0000000053F7E8E4000000000000368C
-t1408755940
+c0000000053F8070F000000000000368C
+t1408763663
 s13964
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies494b9d6a20a8b941^5683b46a20a8b941^---0#1#1#--18"Check dependencies36"4EB08E3B-D237-4DA4-A5D2-C73F20EA7710-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies484fb5933ea8b941^dc12c5933ea8b941^---0#1#1#--18"Check dependencies36"F2007FA0-4B66-4800-AEAB-5C2A8BFB33AA-
 
 CCompileC build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ Mentor.build/Objects-normal/i386/AppDelegate.o /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
 CCompileC build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ Mentor.build/Objects-normal/i386/CDVInAppBrowser.o /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ Mentor.build/Objects-normal/i386/CDVSplashScreen.o /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
 CCompileC build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ Mentor.build/Objects-normal/i386/MainViewController.o /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
@@ -274,13 +278,13 @@ CCompileC build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ M
 r0
 
 CCompileXIB /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Classes/MainViewController.xib
-s430447307.095036
-e430447311.523100
+s430455990.090874
+e430455990.616286
 r1
 xCompileXIB
 x/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Classes/MainViewController.xib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Compiling /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Classes/MainViewController.xib78"[1mCompileXIB[0m [1mYEI\ College\ Mentor/Classes/MainViewController.xib[0me08218cb1aa8b941^42eb85cf1aa8b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/YEI%20College%20Mentor/Classes/MainViewController.xib0000000000000000^1099"[1mCompileXIB[0m [1mYEI\ College\ Mentor/Classes/MainViewController.xib[0m    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app/MainViewController.nib /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Classes/MainViewController.xib36"FA7BE3E7-607C-4237-93E5-DFD7B6C019A7-
-b4507260E-BFC4-4196-929D-07ABDBFBB1C9
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Compiling /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/Classes/MainViewController.xib78"[1mCompileXIB[0m [1mYEI\ College\ Mentor/Classes/MainViewController.xib[0mbda617b63ca8b941^c1ca9db63ca8b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/YEI%20College%20Mentor/Classes/MainViewController.xib0000000000000000^1099"[1mCompileXIB[0m [1mYEI\ College\ Mentor/Classes/MainViewController.xib[0m    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app/MainViewController.nib /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Classes/MainViewController.xib36"9566E432-A07B-4E4B-A6DE-A803F6E9D997-
+b6E844E53-0B77-4E49-BC74-C723D74F5F67
 
 CCopyStringsFile /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app/de.lproj/Localizable.strings YEI\ College\ Mentor/Resources/de.lproj/Localizable.strings
 s430439036.470412
@@ -303,34 +307,34 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy YE
 b405AD958-49D1-4565-8D1D-79AC2DC256F7
 
 CCpResource YEI\ College\ Mentor/Resources/icons/icon-40.png build/emulator/YEI\ College\ Mentor.app/icon-40.png
-s430448748.508815
-e430448748.517295
+s430456469.247340
+e430456469.249893
 r1
 xCpResource
 xYEI College Mentor/Resources/icons/icon-40.png
 xbuild/emulator/YEI College Mentor.app/icon-40.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/YEI College Mentor.app/icon-40.png119"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-40.png build/emulator/YEI\ College\ Mentor.app/icon-40.png2b68826c20a8b941^3e3d866c20a8b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-40.png0000000000000000^921"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-40.png build/emulator/YEI\ College\ Mentor.app/icon-40.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-40.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"B58BE949-33F9-4FB8-9AFF-D4CF9DBF31CA-
-b924DC312-4DA9-4858-B624-33553E93B55C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/YEI College Mentor.app/icon-40.png119"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-40.png build/emulator/YEI\ College\ Mentor.app/icon-40.pngb08e3f953ea8b941^16fb3f953ea8b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-40.png0000000000000000^921"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-40.png build/emulator/YEI\ College\ Mentor.app/icon-40.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-40.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"2962FC22-3191-427F-9C5D-762CC7209F87-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CCpResource YEI\ College\ Mentor/Resources/icons/icon-40@2x.png build/emulator/YEI\ College\ Mentor.app/icon-40@2x.png
-s430448748.281775
-e430448748.480781
+s430456469.228424
+e430456469.230499
 r1
 xCpResource
 xYEI College Mentor/Resources/icons/icon-40@2x.png
 xbuild/emulator/YEI College Mentor.app/icon-40@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/emulator/YEI College Mentor.app/icon-40@2x.png125"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-40@2x.png build/emulator/YEI\ College\ Mentor.app/icon-40@2x.png9085486c20a8b941^c45f7b6c20a8b941^---0#0#1#-19%DVTDocumentLocation2@154"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-40@2x.png0000000000000000^930"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-40@2x.png build/emulator/YEI\ College\ Mentor.app/icon-40@2x.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-40@2x.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"BFA364E3-7CBD-436B-A743-932D3D77C0D6-
-b924DC312-4DA9-4858-B624-33553E93B55C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/emulator/YEI College Mentor.app/icon-40@2x.png125"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-40@2x.png build/emulator/YEI\ College\ Mentor.app/icon-40@2x.png65a83a953ea8b941^72193b953ea8b941^---0#0#1#-19%DVTDocumentLocation2@154"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-40@2x.png0000000000000000^930"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-40@2x.png build/emulator/YEI\ College\ Mentor.app/icon-40@2x.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-40@2x.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"F1BFBF95-2094-40C7-A6C8-C96467591822-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CCpResource YEI\ College\ Mentor/Resources/icons/icon-50.png build/emulator/YEI\ College\ Mentor.app/icon-50.png
-s430448748.493134
-e430448748.499400
+s430456469.236264
+e430456469.239541
 r1
 xCpResource
 xYEI College Mentor/Resources/icons/icon-50.png
 xbuild/emulator/YEI College Mentor.app/icon-50.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/YEI College Mentor.app/icon-50.png119"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-50.png build/emulator/YEI\ College\ Mentor.app/icon-50.pngd9b47e6c20a8b941^5d19806c20a8b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-50.png0000000000000000^921"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-50.png build/emulator/YEI\ College\ Mentor.app/icon-50.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-50.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"EE3D3883-7649-4BCC-9A1B-5F4EC34C977F-
-b924DC312-4DA9-4858-B624-33553E93B55C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/YEI College Mentor.app/icon-50.png119"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-50.png build/emulator/YEI\ College\ Mentor.app/icon-50.png0e9f3c953ea8b941^a7ad3d953ea8b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-50.png0000000000000000^921"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-50.png build/emulator/YEI\ College\ Mentor.app/icon-50.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-50.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"7D296537-EA6C-4CAC-9EE6-2B1EF51FE936-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CCpResource YEI\ College\ Mentor/Resources/icons/icon-50@2x.png build/emulator/YEI\ College\ Mentor.app/icon-50@2x.png
 s430439424.619304
@@ -343,14 +347,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy bu
 b4949A113-1E0C-45C4-964E-4FFA018734D5
 
 CCpResource YEI\ College\ Mentor/Resources/icons/icon-72.png build/emulator/YEI\ College\ Mentor.app/icon-72.png
-s430448748.480597
-e430448748.491483
+s430456469.231200
+e430456469.235028
 r1
 xCpResource
 xYEI College Mentor/Resources/icons/icon-72.png
 xbuild/emulator/YEI College Mentor.app/icon-72.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/YEI College Mentor.app/icon-72.png119"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-72.png build/emulator/YEI\ College\ Mentor.app/icon-72.png5c737b6c20a8b941^89247e6c20a8b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-72.png0000000000000000^921"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-72.png build/emulator/YEI\ College\ Mentor.app/icon-72.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-72.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"E4E59BBF-3F35-44C8-8B85-C455FD67FDC3-
-b924DC312-4DA9-4858-B624-33553E93B55C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/YEI College Mentor.app/icon-72.png119"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-72.png build/emulator/YEI\ College\ Mentor.app/icon-72.png0ea03b953ea8b941^992e3c953ea8b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-72.png0000000000000000^921"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-72.png build/emulator/YEI\ College\ Mentor.app/icon-72.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-72.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"7C16F78D-572D-49E2-A26D-9894D3A08415-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CCpResource YEI\ College\ Mentor/Resources/icons/icon-72@2x.png build/emulator/YEI\ College\ Mentor.app/icon-72@2x.png
 s430443266.669664
@@ -363,14 +367,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy bu
 bBB09B7BE-1838-459F-A05F-D3697533BF37
 
 CCpResource YEI\ College\ Mentor/Resources/icons/icon-76.png build/emulator/YEI\ College\ Mentor.app/icon-76.png
-s430448748.279781
-e430448748.480086
+s430456469.227430
+e430456469.230431
 r1
 xCpResource
 xYEI College Mentor/Resources/icons/icon-76.png
 xbuild/emulator/YEI College Mentor.app/icon-76.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/YEI College Mentor.app/icon-76.png119"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-76.png build/emulator/YEI\ College\ Mentor.app/icon-76.png21ca476c20a8b941^e7fe7a6c20a8b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-76.png0000000000000000^921"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-76.png build/emulator/YEI\ College\ Mentor.app/icon-76.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-76.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"A99B903B-5E7D-4C51-9DAD-1192D569F992-
-b924DC312-4DA9-4858-B624-33553E93B55C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/YEI College Mentor.app/icon-76.png119"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-76.png build/emulator/YEI\ College\ Mentor.app/icon-76.pngfa7e3a953ea8b941^44143b953ea8b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-76.png0000000000000000^921"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-76.png build/emulator/YEI\ College\ Mentor.app/icon-76.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-76.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"E5C993D1-A970-4353-B36F-5D536CB8F7E0-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CCpResource YEI\ College\ Mentor/Resources/icons/icon-76@2x.png build/emulator/YEI\ College\ Mentor.app/icon-76@2x.png
 s430443266.665181
@@ -383,44 +387,44 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy bu
 bBB09B7BE-1838-459F-A05F-D3697533BF37
 
 CCpResource YEI\ College\ Mentor/Resources/icons/icon-small.png build/emulator/YEI\ College\ Mentor.app/icon-small.png
-s430448748.499027
-e430448748.508479
+s430456469.239906
+e430456469.242317
 r1
 xCpResource
 xYEI College Mentor/Resources/icons/icon-small.png
 xbuild/emulator/YEI College Mentor.app/icon-small.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/emulator/YEI College Mentor.app/icon-small.png125"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-small.png build/emulator/YEI\ College\ Mentor.app/icon-small.png5037806c20a8b941^802a826c20a8b941^---0#0#1#-19%DVTDocumentLocation2@154"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-small.png0000000000000000^930"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-small.png build/emulator/YEI\ College\ Mentor.app/icon-small.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-small.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"4BA8EE22-FFC9-4831-9FC4-E33DEB28E07D-
-b924DC312-4DA9-4858-B624-33553E93B55C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/emulator/YEI College Mentor.app/icon-small.png125"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-small.png build/emulator/YEI\ College\ Mentor.app/icon-small.png8a913d953ea8b941^a48e3e953ea8b941^---0#0#1#-19%DVTDocumentLocation2@154"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-small.png0000000000000000^930"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-small.png build/emulator/YEI\ College\ Mentor.app/icon-small.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-small.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"FFFC789C-0C35-4813-BDF4-92A313F47A65-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CCpResource YEI\ College\ Mentor/Resources/icons/icon-small@2x.png build/emulator/YEI\ College\ Mentor.app/icon-small@2x.png
-s430448748.499918
-e430448748.505151
+s430456469.242574
+e430456469.246715
 r1
 xCpResource
 xYEI College Mentor/Resources/icons/icon-small@2x.png
 xbuild/emulator/YEI College Mentor.app/icon-small@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/YEI College Mentor.app/icon-small@2x.png131"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-small@2x.png build/emulator/YEI\ College\ Mentor.app/icon-small@2x.png7e1d806c20a8b941^ac57816c20a8b941^---0#0#1#-19%DVTDocumentLocation2@157"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-small@2x.png0000000000000000^939"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-small@2x.png build/emulator/YEI\ College\ Mentor.app/icon-small@2x.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-small@2x.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"B485C7C4-1C70-424E-BE44-758009D458AB-
-b924DC312-4DA9-4858-B624-33553E93B55C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/YEI College Mentor.app/icon-small@2x.png131"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-small@2x.png build/emulator/YEI\ College\ Mentor.app/icon-small@2x.pngeb573e953ea8b941^b7ee3e953ea8b941^---0#0#1#-19%DVTDocumentLocation2@157"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-small@2x.png0000000000000000^939"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon-small@2x.png build/emulator/YEI\ College\ Mentor.app/icon-small@2x.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon-small@2x.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"65EFF367-A356-4313-A934-8BDE27E03CEF-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CCpResource YEI\ College\ Mentor/Resources/icons/icon.png build/emulator/YEI\ College\ Mentor.app/icon.png
-s430448748.481095
-e430448748.492490
+s430456469.231873
+e430456469.235560
 r1
 xCpResource
 xYEI College Mentor/Resources/icons/icon.png
 xbuild/emulator/YEI College Mentor.app/icon.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/YEI College Mentor.app/icon.png113"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon.png build/emulator/YEI\ College\ Mentor.app/icon.png60577b6c20a8b941^ffcf7d6c20a8b941^---0#0#1#-19%DVTDocumentLocation2@148"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon.png0000000000000000^912"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon.png build/emulator/YEI\ College\ Mentor.app/icon.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"376C35F1-FD45-4177-BA7A-D5B1A09E6F05-
-b924DC312-4DA9-4858-B624-33553E93B55C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/YEI College Mentor.app/icon.png113"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon.png build/emulator/YEI\ College\ Mentor.app/icon.png029f3b953ea8b941^93523c953ea8b941^---0#0#1#-19%DVTDocumentLocation2@148"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon.png0000000000000000^912"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon.png build/emulator/YEI\ College\ Mentor.app/icon.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"4826C3A4-7CC9-4378-94AF-186D1F4ECE1C-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CCpResource YEI\ College\ Mentor/Resources/icons/icon@2x.png build/emulator/YEI\ College\ Mentor.app/icon@2x.png
-s430448748.491827
-e430448748.498079
+s430456469.237568
+e430456469.240870
 r1
 xCpResource
 xYEI College Mentor/Resources/icons/icon@2x.png
 xbuild/emulator/YEI College Mentor.app/icon@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/YEI College Mentor.app/icon@2x.png119"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon@2x.png build/emulator/YEI\ College\ Mentor.app/icon@2x.png77117e6c20a8b941^51a47f6c20a8b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon@2x.png0000000000000000^921"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon@2x.png build/emulator/YEI\ College\ Mentor.app/icon@2x.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon@2x.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"56E63B54-0AA6-4CED-ADA6-6F5A51723912-
-b924DC312-4DA9-4858-B624-33553E93B55C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/YEI College Mentor.app/icon@2x.png119"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon@2x.png build/emulator/YEI\ College\ Mentor.app/icon@2x.pngdc2d3d953ea8b941^d9063e953ea8b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon@2x.png0000000000000000^921"[1mCpResource[0m YEI\ College\ Mentor/Resources/icons/icon@2x.png build/emulator/YEI\ College\ Mentor.app/icon@2x.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/icons/icon@2x.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"636AC205-DF5F-4F54-97C3-ABC31A77BC62-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CCpResource YEI\ College\ Mentor/Resources/splash/Default-568h@2x~iphone.png build/emulator/YEI\ College\ Mentor.app/Default-568h@2x~iphone.png
 s430439424.618262
@@ -473,14 +477,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy bu
 b405AD958-49D1-4565-8D1D-79AC2DC256F7
 
 CCpResource YEI\ College\ Mentor/Resources/splash/Default@2x~iphone.png build/emulator/YEI\ College\ Mentor.app/Default@2x~iphone.png
-s430439360.759524
-e430439360.763369
+s430456469.252788
+e430456469.257514
 r1
 xCpResource
 xYEI College Mentor/Resources/splash/Default@2x~iphone.png
 xbuild/emulator/YEI College Mentor.app/Default@2x~iphone.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/emulator/YEI College Mentor.app/Default@2x~iphone.png140"[1mCpResource[0m YEI\ College\ Mentor/Resources/splash/Default@2x~iphone.png build/emulator/YEI\ College\ Mentor.app/Default@2x~iphone.pngffb3c2c0fba7b941^0aa1c3c0fba7b941^---0#0#1#-19%DVTDocumentLocation2@161"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/Default@2x~iphone.png0034c0efddffdf42^953"[1mCpResource[0m YEI\ College\ Mentor/Resources/splash/Default@2x~iphone.png build/emulator/YEI\ College\ Mentor.app/Default@2x~iphone.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/splash/Default@2x~iphone.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"4B09BF43-2451-4798-9DA9-1F021DE1B26A-
-b65C34657-0357-4697-97B6-ACD575863B23
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/emulator/YEI College Mentor.app/Default@2x~iphone.png140"[1mCpResource[0m YEI\ College\ Mentor/Resources/splash/Default@2x~iphone.png build/emulator/YEI\ College\ Mentor.app/Default@2x~iphone.png4bea40953ea8b941^e4f441953ea8b941^---1#0#1#-19%DVTDocumentLocation2@161"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/Default@2x~iphone.png0034c0efddffdf42^953"[1mCpResource[0m YEI\ College\ Mentor/Resources/splash/Default@2x~iphone.png build/emulator/YEI\ College\ Mentor.app/Default@2x~iphone.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/Resources/splash/Default@2x~iphone.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"63E231B9-1E44-488A-8F3D-B2F6590CB097-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CCpResource YEI\ College\ Mentor/Resources/splash/Default~iphone.png build/emulator/YEI\ College\ Mentor.app/Default~iphone.png
 s430439424.613546
@@ -493,24 +497,24 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy bu
 b4949A113-1E0C-45C4-964E-4FFA018734D5
 
 CCpResource www/res/icon/ios/icon-60.png build/emulator/YEI\ College\ Mentor.app/icon-60.png
-s430448748.509845
-e430448748.514909
+s430456469.249832
+e430456469.253785
 r0
 xCpResource
 xwww/res/icon/ios/icon-60.png
 xbuild/emulator/YEI College Mentor.app/icon-60.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/YEI College Mentor.app/icon-60.png99"[1mCpResource[0m www/res/icon/ios/icon-60.png build/emulator/YEI\ College\ Mentor.app/icon-60.png2aaa826c20a8b941^8333846c20a8b941^-152"error: /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/www/res/icon/ios/icon-60.png: No such file or directory1(21%IDEActivityLogMessage2@151"error: /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/www/res/icon/ios/icon-60.png: No such file or directory-430448748#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#11"PBXCp Error--0#0#1#-19%DVTDocumentLocation4@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-60.png0034c0efddffdf42^881"[1mCpResource[0m www/res/icon/ios/icon-60.png build/emulator/YEI\ College\ Mentor.app/icon-60.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/www/res/icon/ios/icon-60.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"64C10318-A26B-414C-97A7-92367D204C05-
-b924DC312-4DA9-4858-B624-33553E93B55C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/YEI College Mentor.app/icon-60.png99"[1mCpResource[0m www/res/icon/ios/icon-60.png build/emulator/YEI\ College\ Mentor.app/icon-60.png308440953ea8b941^690241953ea8b941^-152"error: /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/www/res/icon/ios/icon-60.png: No such file or directory1(21%IDEActivityLogMessage2@151"error: /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/www/res/icon/ios/icon-60.png: No such file or directory-430456469#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#11"PBXCp Error--0#0#1#-19%DVTDocumentLocation4@151"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-60.png0034c0efddffdf42^881"[1mCpResource[0m www/res/icon/ios/icon-60.png build/emulator/YEI\ College\ Mentor.app/icon-60.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/www/res/icon/ios/icon-60.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"7ACA0AD1-1E81-4075-834A-F1A442A0EA8C-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CCpResource www/res/icon/ios/icon-60@2x.png build/emulator/YEI\ College\ Mentor.app/icon-60@2x.png
-s430448748.506556
-e430448748.509529
+s430456469.243084
+e430456469.248357
 r1
 xCpResource
 xwww/res/icon/ios/icon-60@2x.png
 xbuild/emulator/YEI College Mentor.app/icon-60@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/emulator/YEI College Mentor.app/icon-60@2x.png105"[1mCpResource[0m www/res/icon/ios/icon-60@2x.png build/emulator/YEI\ College\ Mentor.app/icon-60@2x.pngd4d1816c20a8b941^40db826c20a8b941^---0#0#1#-19%DVTDocumentLocation2@154"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-60@2x.png0000000000000000^890"[1mCpResource[0m www/res/icon/ios/icon-60@2x.png build/emulator/YEI\ College\ Mentor.app/icon-60@2x.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/www/res/icon/ios/icon-60@2x.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"B9BB7B2A-1389-4C0F-B55A-326C20863584-
-b924DC312-4DA9-4858-B624-33553E93B55C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/emulator/YEI College Mentor.app/icon-60@2x.png105"[1mCpResource[0m www/res/icon/ios/icon-60@2x.png build/emulator/YEI\ College\ Mentor.app/icon-60@2x.pngca183f953ea8b941^8fa53f953ea8b941^---0#0#1#-19%DVTDocumentLocation2@154"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI%20College%20Mentor.app/icon-60@2x.png0000000000000000^890"[1mCpResource[0m www/res/icon/ios/icon-60@2x.png build/emulator/YEI\ College\ Mentor.app/icon-60@2x.png    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/www/res/icon/ios/icon-60@2x.png /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app36"8C94C4EF-3ECB-47BB-8367-5FE640BC0A24-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CGenerateDSYMFile /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app.dSYM /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app/YEI\ College\ Mentor
 r0
@@ -519,28 +523,28 @@ CLd /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/
 r0
 
 CPhaseScriptExecution Copy\ www\ directory /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ Mentor.build/Script-304B58A110DAC018002A0835.sh
-s430448746.720775
-e430448748.278495
+s430456467.779675
+e430456469.225721
 r1
 xPhaseScriptExecution
 xCopy www directory
 x/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/YEI College Mentor.build/Debug-iphonesimulator/YEI College Mentor.build/Script-304B58A110DAC018002A0835.sh
 o
-oreal	0m1.482s
+oreal	0m1.390s
 ouser	0m0.439s
-osys	0m0.735s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'166"[1mPhaseScriptExecution[0m Copy\ www\ directory build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ Mentor.build/Script-304B58A110DAC018002A0835.shde72b96a20a8b941^b24c476c20a8b941^-42"real	0m1.482suser	0m0.439ssys	0m0.735s3(21%IDEActivityLogMessage2@14"real	0m1.482s-430448748#1#14#-0#-----2@14"user	0m0.439s-430448748#15#14#-0#-----2@13"sys	0m0.735s-430448748#29#13#-0#-----0#0#1#--491"[1mPhaseScriptExecution[0m Copy\ www\ directory build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ Mentor.build/Script-304B58A110DAC018002A0835.sh    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    /bin/sh -c \"/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ Mentor.build/Script-304B58A110DAC018002A0835.sh\"36"EC041165-AE85-4E5E-8FEE-8FD70B761B64-
-b924DC312-4DA9-4858-B624-33553E93B55C
+osys	0m0.734s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'166"[1mPhaseScriptExecution[0m Copy\ www\ directory build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ Mentor.build/Script-304B58A110DAC018002A0835.sh8c9dc8933ea8b941^ac1c3a953ea8b941^-42"real	0m1.390suser	0m0.439ssys	0m0.734s3(21%IDEActivityLogMessage2@14"real	0m1.390s-430456469#1#14#-0#-----2@14"user	0m0.439s-430456469#15#14#-0#-----2@13"sys	0m0.734s-430456469#29#13#-0#-----0#0#1#--491"[1mPhaseScriptExecution[0m Copy\ www\ directory build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ Mentor.build/Script-304B58A110DAC018002A0835.sh    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    /bin/sh -c \"/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/YEI\ College\ Mentor.build/Debug-iphonesimulator/YEI\ College\ Mentor.build/Script-304B58A110DAC018002A0835.sh\"36"FE1DB885-B01E-46C4-AEDF-484730FC3FB8-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CProcessInfoPlistFile /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app/Info.plist /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/YEI\ College\ Mentor-Info.plist
-s430448746.707734
-e430448746.718130
+s430456467.772506
+e430456467.776697
 r1
 xProcessInfoPlistFile
 x/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI College Mentor.app/Info.plist
 x/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/YEI College Mentor-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Process /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/YEI College Mentor-Info.plist140"[1mProcessInfoPlistFile[0m build/emulator/YEI\ College\ Mentor.app/Info.plist [1mYEI\ College\ Mentor/YEI\ College\ Mentor-Info.plist[0mb7d3b66a20a8b941^e5d3b76a20a8b941^---0#0#1#-19%DVTDocumentLocation2@154"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/YEI%20College%20Mentor/YEI%20College%20Mentor-Info.plist0000000000000000^1089"[1mProcessInfoPlistFile[0m build/emulator/YEI\ College\ Mentor.app/Info.plist [1mYEI\ College\ Mentor/YEI\ College\ Mentor-Info.plist[0m    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/YEI\ College\ Mentor-Info.plist -genpkginfo /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app/Info.plist36"5C392AC8-D958-4C16-A7A8-8C524B0C29F3-
-b924DC312-4DA9-4858-B624-33553E93B55C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Process /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios/YEI College Mentor/YEI College Mentor-Info.plist140"[1mProcessInfoPlistFile[0m build/emulator/YEI\ College\ Mentor.app/Info.plist [1mYEI\ College\ Mentor/YEI\ College\ Mentor-Info.plist[0ma1f8c5933ea8b941^a9dac6933ea8b941^---0#0#1#-19%DVTDocumentLocation2@154"file:///Users/dangelder/Dropbox/Work/Projects/YEI/2014/The%20App/yeiapp2014-cordova/platforms/ios/YEI%20College%20Mentor/YEI%20College%20Mentor-Info.plist0000000000000000^1089"[1mProcessInfoPlistFile[0m build/emulator/YEI\ College\ Mentor.app/Info.plist [1mYEI\ College\ Mentor/YEI\ College\ Mentor-Info.plist[0m    cd "/Users/dangelder/Dropbox/Work/Projects/YEI/2014/The App/yeiapp2014-cordova/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/YEI\ College\ Mentor/YEI\ College\ Mentor-Info.plist -genpkginfo /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dangelder/Dropbox/Work/Projects/YEI/2014/The\ App/yeiapp2014-cordova/platforms/ios/build/emulator/YEI\ College\ Mentor.app/Info.plist36"80289775-9340-4FC4-8614-4ED31DAA881C-
+bE20296E0-E424-4C3C-9867-C9C665FA9A89
 
 CProcessPCH /var/folders/vs/_y187_sx4p5bpvk_2nsygtsr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/YEI\ College\ Mentor-Prefix-flqicjlonukyludnjgvxummxoefu/YEI\ College\ Mentor-Prefix.pch.pch YEI\ College\ Mentor/YEI\ College\ Mentor-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0

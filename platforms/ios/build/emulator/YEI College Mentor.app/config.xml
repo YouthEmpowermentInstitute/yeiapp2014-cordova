@@ -22,6 +22,22 @@
     <feature name="InAppBrowser">
         <param name="ios-package" value="CDVInAppBrowser" />
     </feature>
+    <feature name="SplashScreen">
+        <param name="ios-package" value="CDVSplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <icon gap:platform="ios" height="60" src="res/icon/ios/icon-60.png" width="60" />
+    <icon gap:platform="ios" height="120" src="res/icon/ios/icon-60@2x.png" width="120" />
+    <icon gap:platform="ios" height="76" src="res/icon/ios/icon-76.png" width="76" />
+    <icon gap:platform="ios" height="152" src="res/icon/ios/icon-76@2x.png" width="152" />
+    <gap:splash gap:platform="ios" height="480" src="platforms/ios/www/res/screen/ios/Default.png" width="320" />
+    <gap:splash gap:platform="ios" height="960" src="platforms/ios/www/res/screen/ios/Default@2x.png" width="640" />
+    <gap:splash gap:platform="ios" height="1136" src="platforms/ios/www/res/screen/ios/Default-568h@2x.png" width="640" />
+    <gap:splash gap:platform="ios" height="1024" src="platforms/ios/www/res/screen/ios/Default-Portrait.png" width="768" />
+    <gap:splash gap:platform="ios" height="768" src="platforms/ios/www/res/screen/ios/Default-Landscape.png" width="1024" />
+    <gap:splash gap:platform="ios" height="2048" src="platforms/ios/www/res/screen/ios/Default-Portrait@2x.png" width="1536" />
+    <gap:splash gap:platform="ios" height="1536" src="platforms/ios/www/res/screen/ios/Default-Landscape@2x.png" width="2048" />
+    <gap:splash src="platforms/ios/www/splash.png" />
     <name>YEI College Mentor</name>
     <description>
         The 2014 version of the Youth Empowerment Institute College Mentor App
@@ -64,24 +80,5 @@
     <gap:plugin name="org.apache.cordova.vibration" />
     <gap:plugin name="org.li8.inappbrowser" version="0.1" />
     <icon src="icon.png" />
-    <icon gap:platform="android" gap:qualifier="ldpi" src="www/res/icon/android/icon-36-ldpi.png" />
-    <icon gap:platform="android" gap:qualifier="mdpi" src="www/res/icon/android/icon-48-mdpi.png" />
-    <icon gap:platform="android" gap:qualifier="hdpi" src="www/res/icon/android/icon-72-hdpi.png" />
-    <icon gap:platform="android" gap:qualifier="xhdpi" src="www/res/icon/android/icon-96-xhdpi.png" />
-    <icon gap:platform="ios" height="60" src="res/icon/ios/icon-60.png" width="60" />
-    <icon gap:platform="ios" height="120" src="res/icon/ios/icon-60@2x.png" width="120" />
-    <icon gap:platform="ios" height="76" src="res/icon/ios/icon-76.png" width="76" />
-    <icon gap:platform="ios" height="152" src="res/icon/ios/icon-76@2x.png" width="152" />
-    <gap:splash gap:platform="ios" height="480" src="platforms/ios/www/res/screen/ios/Default.png" width="320" />
-    <gap:splash gap:platform="ios" height="960" src="platforms/ios/www/res/screen/ios/Default@2x.png" width="640" />
-    <gap:splash gap:platform="ios" height="1136" src="platforms/ios/www/res/screen/ios/Default-568h@2x.png" width="640" />
-    <gap:splash gap:platform="ios" height="1024" src="platforms/ios/www/res/screen/ios/Default-Portrait.png" width="768" />
-    <gap:splash gap:platform="ios" height="768" src="platforms/ios/www/res/screen/ios/Default-Landscape.png" width="1024" />
-    <gap:splash gap:platform="ios" height="2048" src="platforms/ios/www/res/screen/ios/Default-Portrait@2x.png" width="1536" />
-    <gap:splash gap:platform="ios" height="1536" src="platforms/ios/www/res/screen/ios/Default-Landscape@2x.png" width="2048" />
-    <gap:splash src="platforms/ios/www/splash.png" />
-    <gap:splash gap:platform="android" gap:qualifier="ldpi" src="www/res/screen/android/ldpi.png" />
-    <gap:splash gap:platform="android" gap:qualifier="mdpi" src="www/res/screen/android/mdpi.png" />
-    <gap:splash gap:platform="android" gap:qualifier="hdpi" src="www/res/screen/android/hdpi.png" />
     <access origin="*" />
 </widget>

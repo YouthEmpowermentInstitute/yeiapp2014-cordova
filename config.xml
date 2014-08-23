@@ -39,8 +39,7 @@
     <preference name="disable-cursor"             value="false" />          <!-- blackberry: prevents a mouse-icon/cursor from being displayed on the app -->
     <preference name="android-minSdkVersion"      value="7" />              <!-- android: MIN SDK version supported on the target device. MAX version is blank by default. -->
     <preference name="android-installLocation"    value="auto" />           <!-- android: app install location. 'auto' will choose. 'internalOnly' is device memory. 'preferExternal' is SDCard. -->
-		<preference name="SplashScreen" value="screen" />
-		<preference name="SplashScreenDelay" value="10000" />
+
     <!-- Plugins -->
 
     <!-- Core plugins -->
@@ -73,11 +72,8 @@
 
     <!-- Define app icon for each platform. -->
     <icon src="icon.png" />
-    <icon src="www/res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:qualifier="ldpi" />
-    <icon src="www/res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:qualifier="mdpi" />
-    <icon src="www/res/icon/android/icon-72-hdpi.png"   gap:platform="android"    gap:qualifier="hdpi" />
-    <icon src="www/res/icon/android/icon-96-xhdpi.png"  gap:platform="android"    gap:qualifier="xhdpi" />
-              
+  
+   <platform name="ios">           
 		<!-- iPhone / iPod Touch  -->
 		<icon src="res/icon/ios/icon-60.png" gap:platform="ios" width="60" height="60" />
 		<icon src="res/icon/ios/icon-60@2x.png" gap:platform="ios" width="120" height="120" />
@@ -102,13 +98,20 @@
 		<gap:splash src="platforms/ios/www/res/screen/ios/Default-Portrait@2x.png" gap:platform="ios" width="1536" height="2048" />
 		<gap:splash src="platforms/ios/www/res/screen/ios/Default-Landscape@2x.png" gap:platform="ios" width="2048" height="1536" />
 
-<gap:splash src="platforms/ios/www/splash.png" />
- 
-    <platform name="android">                  
-		<icon src="www/res/screen/android/ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
+    <gap:splash src="platforms/ios/www/splash.png" />
+   </platform>
+
+   <platform name="android">
+    <icon src="www/res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:qualifier="ldpi" />
+    <icon src="www/res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:qualifier="mdpi" />
+    <icon src="www/res/icon/android/icon-72-hdpi.png"   gap:platform="android"    gap:qualifier="hdpi" />
+    <icon src="www/res/icon/android/icon-96-xhdpi.png"  gap:platform="android"    gap:qualifier="xhdpi" />
+                  
+		<gap:splash src="www/res/screen/android/ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
 		<gap:splash src="www/res/screen/android/mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
 		<gap:splash src="www/res/screen/android/hdpi.png" gap:platform="android" gap:qualifier="hdpi" />
-		
+	 </platform>
+	 
     <!--
         Define access to external domains.
 
